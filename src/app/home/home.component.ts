@@ -1,4 +1,3 @@
-import { ApiRestService } from './../services/api-rest.service';
 import { Component, OnInit } from '@angular/core';
 import { CognitoUserPool, CognitoUserAttribute } from 'amazon-cognito-identity-js';
 import { environment } from 'src/environments/environment';

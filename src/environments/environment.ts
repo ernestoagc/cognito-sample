@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  UserPoolId: 'us-east-1_EyQjCoCdq',
-  ClientId: '23ko9o2v91a9bvif3s22m97b4h',
+  UserPoolId: 'COGNITO_POOL_ID',
+  ClientId: 'COGNITO_CLIENT_ID',
   springURL: 'http://localhost:8080/',
   ACCESS_TOKEN: 'accessToken',
   AUTHORIZATION: 'Authorization',
